@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676473666 source:c:\users\etienne\coding folder\cpp\keyboard app\sdl-main\build-scripts\gen_audio_channel_conversion.c
+	<stdio.h>
+
+1676473666 source:c:\users\etienne\coding folder\cpp\keyboard app\sdl-main\build-scripts\gen_audio_resampler_filter.c
+	<stdio.h>
+	<math.h>
+
